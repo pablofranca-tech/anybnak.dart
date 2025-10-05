@@ -18,7 +18,7 @@ Ele permite criar contas, enviar e receber dinheiro, e mostrar o saldo de cada c
 
 Abaixo está um exemplo do programa sendo executado (print do console):
 
-![Print do programa](images/code.png)
+![Exemplo do código em Dart](code.png)
 
 
 
